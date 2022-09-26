@@ -15,7 +15,6 @@
     </style>
 
     <style name="Theme.Wemuslim20.NoAction" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-
     </style>
 
     <style name="Theme.Wemuslim20.ActionBar" parent="Theme.MaterialComponents.Light.DarkActionBar">
